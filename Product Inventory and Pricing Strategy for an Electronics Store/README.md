@@ -1,7 +1,8 @@
 Managing a Product Inventory and Pricing Strategy for an Electronics Store
 
 Introduction:
-The following SQL queries are part of a database management task for an electronics store that aims to effectively manage its product inventory, manufacturers' data, and pricing strategy. The queries cover a range of functionalities, including product listing, price analysis, and manufacturer relationships, helping the store make informed business decisions.
+The following SQL queries are part of a database management task for an electronics store that aims to effectively manage its product inventory, manufacturers' data, and pricing strategy.
+The queries cover a range of functionalities, including product listing, price analysis, and manufacturer relationships, helping the store make informed business decisions.
 
 1. Inventory Listing and Product Details:
 Listing All Products: The store begins by listing all the products available in the inventory to maintain an organized view of the current offerings. This includes the names of all products (Query 1.1) and extends to include both names and prices (Query 1.2).
