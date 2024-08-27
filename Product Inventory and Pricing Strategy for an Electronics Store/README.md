@@ -47,7 +47,7 @@ SQL Queries and Operations
 3.3 Reassign Employees
 
 4. Data Cleanup
-5. 
+
 4.1 Delete Specific Employees
 
 4.2 Delete All Employees
@@ -73,4 +73,5 @@ Contact
 For any questions or additional information, please contact:
 
 Name: Yash Sinha
+
 Email: yashsinha12354@gmail.com
